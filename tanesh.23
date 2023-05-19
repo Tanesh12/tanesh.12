@@ -1,0 +1,3 @@
+def solution(A):
+    distinct_count = len(set(A))  
+    return distinct_count
